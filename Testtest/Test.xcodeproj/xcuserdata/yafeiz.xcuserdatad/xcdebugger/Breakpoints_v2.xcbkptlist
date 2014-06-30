@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test/Controller/AlbumViewController.m"
+            timestampString = "425383190.234432"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "-getRecomentData:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AlbumViewController getRecomentData:]"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/Controller/AlbumViewController.m"
+                  timestampString = "425376863.127761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[AlbumViewController getRecomentData:]_block_invoke"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/Controller/AlbumViewController.m"
+                  timestampString = "425376863.128159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test/src/Service/dtlib.m"
+            timestampString = "425387733.557773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "+getAlbumDataLastData:andDic:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test/src/Service/dtlib.m"
+            timestampString = "425387733.557773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "+getAlbumDataLastData:andDic:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[dtlib getAlbumDataLastData:andDic:]"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/src/Service/dtlib.m"
+                  timestampString = "425376863.14035"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37+[dtlib getAlbumDataLastData:andDic:]_block_invoke"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/src/Service/dtlib.m"
+                  timestampString = "425376863.140776"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test/src/Service/dtlib.m"
+            timestampString = "425387733.557773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "+getAlbumDataLastData:andDic:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37+[dtlib getAlbumDataLastData:andDic:]_block_invoke"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/src/Service/dtlib.m"
+                  timestampString = "425376863.179566"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37+[dtlib getAlbumDataLastData:andDic:]_block_invoke_2"
+                  moduleName = "Test"
+                  urlString = "file:///Users/yafeiz/Desktop/%E5%9F%BA%E7%A1%80%E6%8E%A7%E4%BB%B6/%E6%92%AD%E6%94%BE/Test/Test/src/Service/dtlib.m"
+                  timestampString = "425376863.179833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

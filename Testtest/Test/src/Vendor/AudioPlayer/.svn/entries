@@ -1,0 +1,126 @@
+10
+
+dir
+0
+http://liguotal@www.svnchina.com/svn/testshow/Test/Test/src/Vendor/AudioPlayer
+http://liguotal@www.svnchina.com/svn/testshow
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2fd459ec-6e31-4da0-8505-893c6f632107
+
+CoreFoundationDataSource.h
+file
+
+
+
+add
+
+DataSource.h
+file
+
+
+
+add
+
+HttpDataSource.h
+file
+
+
+
+add
+
+LocalFileDataSource.m
+file
+
+
+
+add
+
+DataSourceWrapper.h
+file
+
+
+
+add
+
+AutoRecoveringHttpDataSource.m
+file
+
+
+
+add
+
+AudioPlayer.h
+file
+
+
+
+add
+
+CoreFoundationDataSource.m
+file
+
+
+
+add
+
+DataSource.m
+file
+
+
+
+add
+
+HttpDataSource.m
+file
+
+
+
+add
+
+DataSourceWrapper.m
+file
+
+
+
+add
+
+AudioPlayer.m
+file
+
+
+
+add
+
+LocalFileDataSource.h
+file
+
+
+
+add
+
+AutoRecoveringHttpDataSource.h
+file
+
+
+
+add
+
